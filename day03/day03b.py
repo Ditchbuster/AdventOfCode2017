@@ -4,7 +4,7 @@ import math
 #with open('test.txt') as f:
 input = 361527
 dir = 0 # east, 1 north, 2 west, 3 south
-size = 1000
+size = 10
 grid = []
 for i in range(size):
     grid.append([0]*size)
